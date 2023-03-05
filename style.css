@@ -23,8 +23,10 @@ body {
     align-items: center;
     justify-content: center;
     font-family: 'Outfit', sans-serif;
-    height: 95vh;
+    height: 100vh;
+    height: 100dvh;
     text-align: center;
+    margin:0;
 }
 
 main {
